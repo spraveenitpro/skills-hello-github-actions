@@ -21,6 +21,14 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ### What's next?
 
+
+1. Make a new branch named `test-workflow`.
+1. Make a change, such as adding an emoji to your README.md file, and commit the change directly to your new branch.
+1. In the **Pull requests** tab, create a pull request that will merge `test-workflow` into `main`.
+1. Watch the workflow running in the checks section of the pull request.
+1. Notice the comment that the workflow adds to the pull request.
+1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
+This is a test
 - Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)"
 - Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions)
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions)
